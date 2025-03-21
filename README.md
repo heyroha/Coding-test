@@ -13,3 +13,5 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 - COUNT(DISTINCT): 중복 없이 카운트
 - IN('NAME1','NAME2')
 - IS NOT NULL: 결과가 없는 경우 제외
+- REGEXP'|조건1|조건2|': 해당하는 조건이 들어있는거 찾기
+- SET 해서 변수 설정, ';' 으로 마무리하기
