@@ -16,3 +16,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 - REGEXP'|조건1|조건2|': 해당하는 조건이 들어있는거 찾기
 - SET 해서 변수 설정, ';' 으로 마무리하기
 - DATE_FORMAT(DATE, '%Y-%m-%d')
+
+---
+
+## 🐍Python
+- string.split(): 문자열 공백 기준으로 나눔
